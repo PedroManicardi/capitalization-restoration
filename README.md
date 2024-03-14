@@ -6,6 +6,7 @@ Note: instructions expect that you are inside that repository
 ./autogen.sh
 make
 ```
+and then the .bin files will be created
 
 ## How to run
 follow build instructions then run with a input text.
