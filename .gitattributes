@@ -1,0 +1,40 @@
+* text=auto !eol
+/AUTHORS -text
+/COPYING -text
+/ChangeLog -text
+/Makefile.am -text
+/NEWS -text
+/README -text
+/apertium-es-pt.es-pt.dix -text
+/apertium-es-pt.es-pt.t1x -text
+/apertium-es-pt.es.dix -text
+/apertium-es-pt.es.tsx -text
+/apertium-es-pt.post-es.dix -text
+/apertium-es-pt.post-pt.dix -text
+/apertium-es-pt.pt-es.t1x -text
+/apertium-es-pt.pt.dix -text
+/apertium-es-pt.pt.tsx -text
+/autogen.sh -text
+/configure.ac -text
+dev/Europarl3.biltrans-entries.pt-es -text
+dev/Europarl3.ngrams.pt-es.lrx -text
+dev/textos-que-rompen-el-formato-html/README -text
+dev/textos-que-rompen-el-formato-html/t1.html -text
+dev/textos-que-rompen-el-formato-html/t2.html -text
+dev/textos-que-rompen-el-formato-html/t3.html -text
+/es-pt-supervised.make -text
+/es-pt-unsupervised.make -text
+/es-pt.prob -text svneol=unset#unset
+/filter.sh -text
+/filter.xsl -text
+/filterrules.sh -text
+/filterrules.xsl -text
+/modes.xml -text
+/pt-es-supervised.make -text
+/pt-es-unsupervised.make -text
+/pt-es.prob -text svneol=unset#unset
+*.dix linguist-language=XML linguist-detectable=true
+*.lrx linguist-language=XML linguist-detectable=true
+*.lsx linguist-language=XML linguist-detectable=true
+*.tsx linguist-language=XML linguist-detectable=true
+*.t[[:digit:]]x linguist-language=XML linguist-detectable=true
